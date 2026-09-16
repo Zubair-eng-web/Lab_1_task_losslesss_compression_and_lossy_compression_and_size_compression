@@ -1,0 +1,1 @@
+# Lab_1_task_losslesss_compression_and_lossy_compression_and_size_compression
